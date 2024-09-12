@@ -1,0 +1,67 @@
+
+
+body {
+    background-image: url("https://animesher.com/orig/1/190/1901/19013/animesher.com_tumblr-anime-gif-gif-1901320.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container {
+    margin-top: 200px;
+    background-color: rgba(255, 255, 255, 0.5);
+    margin: 50px auto;
+    width: 30%;
+    padding: 2% 4%;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.container h1 {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 50px;
+    color: #57356a;
+
+}
+
+.box1 {
+    text-align: center;
+    padding: 10px;
+
+}
+
+.sub {
+    width: 130px;
+    height: 40px;
+    font-size: 18px;
+    padding: 10px 20px;
+    background-color: #800080;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.box1 {
+    margin-bottom: 20px;
+    border-radius: 5px;
+    border: none;
+}
+
+.container input {
+    width: 100%;
+    padding: 10px;
+    color: #800080;
+}
+
+.city {
+    font-weight: bolder;
+    display: flex;
+    justify-content: center;
+    font-size: larger;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+
+}
